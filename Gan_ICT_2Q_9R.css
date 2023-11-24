@@ -1,0 +1,43 @@
+title {
+	color: black;
+	text-align: center;
+	font-size: 100px;
+	font-weight: lighter;
+	padding: 10px;
+	text-align: left;
+
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+    border-color:black;
+    color: black;
+    padding: 10px;
+    font-family: monospace;
+}
+
+th {
+	color: darkred;
+}
+
+th.first{
+	font-size: 20px}
+
+th.second{
+	color: darkred;
+}
+
+th.third{
+	color: darkred;
+}
+
+th.fourth{
+	color: darkred;
+}
+
+table {
+	width:100%;
+	height:100%;
+}
